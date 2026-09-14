@@ -1,0 +1,59 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    348
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    596
+Command line : C:\WINDOWS\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,3072,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:    620
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    664
+Command line : C:\WINDOWS\system32\services.exe
+************************************************************************
+lsass.exe pid:    676
+Command line : C:\WINDOWS\system32\lsass.exe
+************************************************************************
+svchost.exe pid:    836
+Command line : C:\WINDOWS\system32\svchost -k DcomLaunch
+************************************************************************
+svchost.exe pid:    904
+Command line : C:\WINDOWS\system32\svchost -k rpcss
+************************************************************************
+svchost.exe pid:   1024
+Command line : C:\WINDOWS\System32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:   1084
+Command line : C:\WINDOWS\system32\svchost.exe -k NetworkService
+************************************************************************
+svchost.exe pid:   1152
+Command line : C:\WINDOWS\system32\svchost.exe -k LocalService
+************************************************************************
+spoolsv.exe pid:   1484
+Command line : C:\WINDOWS\system32\spoolsv.exe
+************************************************************************
+explorer.exe pid:   1636
+Command line : C:\WINDOWS\Explorer.EXE
+************************************************************************
+tasksche.exe pid:   1940
+Command line : "C:\Intel\ivecuqmanpnirkt615\tasksche.exe"
+************************************************************************
+ctfmon.exe pid:   1956
+Command line : "C:\WINDOWS\system32\ctfmon.exe"
+************************************************************************
+svchost.exe pid:    260
+Command line : C:\WINDOWS\system32\svchost.exe -k LocalService
+************************************************************************
+@WanaDecryptor@ pid:    740
+Command line : @WanaDecryptor@.exe
+************************************************************************
+wuauclt.exe pid:   1768
+Command line : "C:\WINDOWS\system32\wuauclt.exe" /RunStoreAsComServer Local\[400]SUSDS81a6658cb72fa845814e75cca9a42bf2
+************************************************************************
+alg.exe pid:    544
+Command line : C:\WINDOWS\System32\alg.exe
+************************************************************************
+wscntfy.exe pid:   1168
+Command line : C:\WINDOWS\system32\wscntfy.exe

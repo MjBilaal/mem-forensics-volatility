@@ -1,0 +1,15 @@
+Virtual    Physical   Name
+---------- ---------- ----
+0xe1b179e8 0x0ab8f9e8 \Device\HarddiskVolume1\Documents and Settings\donny\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0xe1af2b60 0x0ab5eb60 \Device\HarddiskVolume1\Documents and Settings\donny\NTUSER.DAT
+0xe17833a0 0x08bba3a0 \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0xe18e1b60 0x08db5b60 \Device\HarddiskVolume1\Documents and Settings\LocalService\NTUSER.DAT
+0xe1763008 0x08902008 \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0xe175cb60 0x088f7b60 \Device\HarddiskVolume1\Documents and Settings\NetworkService\NTUSER.DAT
+0xe1490b60 0x06a1fb60 \Device\HarddiskVolume1\WINDOWS\system32\config\software
+0xe14a2758 0x06b0e758 \Device\HarddiskVolume1\WINDOWS\system32\config\default
+0xe1485b60 0x06972b60 \Device\HarddiskVolume1\WINDOWS\system32\config\SAM
+0xe1479b60 0x068fcb60 \Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY
+0xe138b008 0x02ba3008 [no name]
+0xe1035b60 0x0284bb60 \Device\HarddiskVolume1\WINDOWS\system32\config\system
+0xe102e008 0x02845008 [no name]

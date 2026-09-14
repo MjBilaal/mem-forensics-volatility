@@ -1,0 +1,394 @@
+.doc
+WordPad.Document.1
+.jpegg
+.jpg
+.png
+TIFImage.Document
+TIFImage.Document
+.doc
+.jpgH
+.png
+.zip
+.zip
+.pdf
+.ppt
+.xls
+.doc
+.pdf
+.ppt
+.xls
+.doc
+.zip
+TIFImage.Document
+TIFImage.Document
+TextArt.Document
+.xls
+.jpg
+.jpeg
+.png
+.jpeg
+.jpg
+.ppt
+.png
+.doc
+Word.Document.6
+WordPad.Document.1
+.doc
+.jpegty
+.jpg
+.png
+DocWrap.DocWrap
+DocWrap.DocWrap.1
+.jpeg
+.jpg
+MSInfo.Document
+RACplDlg.RARegSetting
+RACplDlg.RARegSetting.1
+TIFImage.Document
+Shell.ThumbnailExtract.Docfile.1
+.xls
+.zip
+Wordpad.Document.1
+.doc
+.jpeg
+.jpg
+.png
+.ppt
+Dhttp://www.informatik.admin.ch/PKI/links/CPS_2_16_756_1_17_3_1_0.pdf0
+,https://cesam.natixis.com/PC/PC_CESAM_V1.pdf0
+?http://www.uce.gub.uy/informacion-tecnica/politicas/cp_acrn.pdf0G
+*http://www.agesic.gub.uy/acrn/cps_acrn.pdf0
+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0=
+.jpeg
+.jpg
+.png
+=http://www.e-certchile.cl/html/productos/download/CPSv1.7.pdf01
+(http://www.echoworx.com/ca/root2/cps.pdf0
+;http://www.pki.admin.ch/policy/CPS_2_16_756_1_17_3_21_1.pdf0
++http://www.correo.com.uy/correocert/cps.pdf0
+#http://cert.startcom.org/policy.pdf05
+)http://cert.startcom.org/intermediate.pdf0
+Limited Liability, read the section *Legal Limitations* of the StartCom Certification Authority Policy available at
+http://cert.startcom.org/policy.pdf0
+Ehttp://www.ica.co.il/repository/cps/PersonalID_Practice_Statement.pdf0
+hs\media\y\9953\9953_cd_fp.jpgo
+hs\media\y\11399\11399_cd_fp.jpg
+hs\media\y\9964\9964_cd_fp.jpgo
+hs\media\y\9951\9951_cd_fp.jpg
+hs\media\y\9968\9968_cd_fp.jpg
+.jpeg
+.jpg
+.png
+Driver do Microsoft Excel(*.xls)
+Microsoft Excel Driver (*.xls)
+Microsoft Excel-Treiber (*.xls)
+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0?
+7http://www.pki.admin.ch/cps/CPS_2_16_756_1_17_3_1_0.pdf09
+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0?
+Microsoft Excel Driver (*.xls)
+Microsoft Excel-Treiber (*.xls)
+Driver do Microsoft Excel(*.xls)
+/http://www.certeurope.fr/reference/pc-root2.pdf0
+8http://www.pki.admin.ch/cps/CPS_2_16_756_1_17_3_21_1.pdf0:
+.jpeg
+.jpg`
+.png
+.ppt
+.xls
+.doc
+.ppt
+.xls
+.doc
+https://dist.torproject.org/torbrowser/6.5.1/tor-win32-0.2.9.10.zip
+https://dist.torproject.org/torbrowser/6.5.1/tor-win32-0.2.9.10.zip
+https://dist.torproject.org/torbrowser/6.5.1/tor-win32-0.2.9.10.zip
+    filter:             expression(window.document.dir=="rtl"?"flipH":"");
+    filter:             expression(window.document.dir=="rtl"?"flipH":"");
+C:\Python27\tcl\tcl8.5\msgs\ja.msg.WNCRY
+C:\Python27\include\pyexpat.h.WNCRY
+C:\Documents and Settings\donny\Cookies\JI4TYBE5.txt.WNCRY
+C:\Python27\tcl\tcl8.5\msgs\af.msg.WNCRY
+"\WINDOWS\system32\DirectX\Dinput\SV-262e1.png"="SV-262e1.png","14862"
+"\WINDOWS\system32\DirectX\Dinput\SV-262e3.png"="SV-262e3.png","15569"
+"\WINDOWS\system32\DirectX\Dinput\SV-262e4.png"="SV-262e4.png","19af7"
+"\WINDOWS\system32\DirectX\Dinput\sv2511.png"="sv2511.png","b341"
+"\WINDOWS\system32\DirectX\Dinput\sv2512.png"="sv2512.png","170e8"
+"\WINDOWS\system32\DirectX\Dinput\ia3002_1.png"="ia3002_1.png","1dfd7"
+"\WINDOWS\system32\DirectX\Dinput\ia3002_2.png"="ia3002_2.png","15c17"
+"\WINDOWS\system32\DirectX\Dinput\lgc202.png"="lgc202.png","cecb"
+"\WINDOWS\system32\DirectX\Dinput\lgc207.png"="lgc207.png","c900"
+"\WINDOWS\system32\DirectX\Dinput\lgc209.png"="lgc209.png","13063"
+"\WINDOWS\system32\DirectX\Dinput\lgc20a.png"="lgc20a.png","17cf7"
+"\WINDOWS\system32\DirectX\Dinput\lgc291.png"="lgc291.png","110cf"
+"\WINDOWS\system32\DirectX\Dinput\ms34.png"="ms34.png","12221"
+"\WINDOWS\system32\DirectX\Dinput\ms34_01.png"="ms34_01.png","100ad"
+"\WINDOWS\system32\DirectX\Dinput\ms34_02.png"="ms34_02.png","7ef2"
+"\WINDOWS\system32\DirectX\Dinput\ms34_03.png"="ms34_03.png","5289"
+"\WINDOWS\system32\DirectX\Dinput\ms34_04.png"="ms34_04.png","ace9"
+"\WINDOWS\system32\DirectX\Dinput\ms34_05.png"="ms34_05.png","390c"
+"\WINDOWS\system32\DirectX\Dinput\ms34_06.png"="ms34_06.png","1f41"
+"\WINDOWS\system32\DirectX\Dinput\ms34_07.png"="ms34_07.png","f39e"
+"\WINDOWS\system32\DirectX\Dinput\ms34_08.png"="ms34_08.png","d91d"
+"\WINDOWS\system32\DirectX\Dinput\ms1b.png"="ms1b.png","135a6"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_01.png"="ms1b_01.png","a314"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_02.png"="ms1b_02.png","967f"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_03.png"="ms1b_03.png","16c7"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_04.png"="ms1b_04.png","337e"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_05.png"="ms1b_05.png","c2f9"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_06.png"="ms1b_06.png","c3d4"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_07.png"="ms1b_07.png","787c"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_08.png"="ms1b_08.png","ae3d"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_09.png"="ms1b_09.png","22c4"
+"\WINDOWS\system32\DirectX\Dinput\ms1b_10.png"="ms1b_10.png","b755"
+"\WINDOWS\system32\DirectX\Dinput\ms26.png"="ms26.png","13f1b"
+"\WINDOWS\system32\DirectX\Dinput\ms26_01.png"="ms26_01.png","4aa7"
+"\WINDOWS\system32\DirectX\Dinput\ms26_02.png"="ms26_02.png","961c"
+"\WINDOWS\system32\DirectX\Dinput\ms26_03.png"="ms26_03.png","21ad"
+"\WINDOWS\system32\DirectX\Dinput\ms26_04.png"="ms26_04.png","6c9f"
+"\WINDOWS\system32\DirectX\Dinput\ms26_05.png"="ms26_05.png","d52d"
+"\WINDOWS\system32\DirectX\Dinput\ms26_06.png"="ms26_06.png","3319"
+"\WINDOWS\system32\DirectX\Dinput\ms26_07.png"="ms26_07.png","59f5"
+"\WINDOWS\system32\DirectX\Dinput\ms26_08.png"="ms26_08.png","dc2f"
+"\WINDOWS\system32\DirectX\Dinput\mse.png"="mse.png","1ce8e"
+"\WINDOWS\system32\DirectX\Dinput\mse_1.png"="mse_1.png","31f4"
+"\WINDOWS\system32\DirectX\Dinput\mse_2.png"="mse_2.png","701c"
+"\WINDOWS\system32\DirectX\Dinput\mse_3.png"="mse_3.png","10276"
+"\WINDOWS\system32\DirectX\Dinput\mse_4.png"="mse_4.png","b7b"
+"\WINDOWS\system32\DirectX\Dinput\mse_5.png"="mse_5.png","2c74"
+"\WINDOWS\system32\DirectX\Dinput\mse_6.png"="mse_6.png","5378"
+"\WINDOWS\system32\DirectX\Dinput\mse_7.png"="mse_7.png","5956"
+"\WINDOWS\system32\DirectX\Dinput\mse_8.png"="mse_8.png","f1f6"
+"\WINDOWS\system32\DirectX\Dinput\mse_9.png"="mse_9.png","b51c"
+"\WINDOWS\system32\DirectX\Dinput\mse_10.png"="mse_10.png","47a2"
+"\WINDOWS\system32\DirectX\Dinput\ms8.png"="ms8.png","15bab"
+"\WINDOWS\system32\DirectX\Dinput\ms8_1.png"="ms8_1.png","550f"
+"\WINDOWS\system32\DirectX\Dinput\ms8_2.png"="ms8_2.png","167b"
+"\WINDOWS\system32\DirectX\Dinput\ms8_3.png"="ms8_3.png","700"
+"\WINDOWS\system32\DirectX\Dinput\ms8_4.png"="ms8_4.png","1b76"
+"\WINDOWS\system32\DirectX\Dinput\ms8_5.png"="ms8_5.png","3cd6"
+"\WINDOWS\system32\DirectX\Dinput\ms8_6.png"="ms8_6.png","fca9"
+"\WINDOWS\system32\DirectX\Dinput\ms8_7.png"="ms8_7.png","ee3"
+"\WINDOWS\system32\DirectX\Dinput\ms8_8.png"="ms8_8.png","32aa"
+"\WINDOWS\system32\DirectX\Dinput\ms8_9.png"="ms8_9.png","fd0e"
+"\WINDOWS\system32\DirectX\Dinput\ms8_10.png"="ms8_10.png","36e9"
+"\WINDOWS\system32\DirectX\Dinput\ms7.png"="ms7.png","1e050"
+"\WINDOWS\system32\DirectX\Dinput\ms7_1.png"="ms7_1.png","69d7"
+"\WINDOWS\system32\DirectX\Dinput\ms7_2.png"="ms7_2.png","196e"
+"\WINDOWS\system32\DirectX\Dinput\ms7_3.png"="ms7_3.png","26ed"
+"\WINDOWS\system32\DirectX\Dinput\ms7_4.png"="ms7_4.png","a408"
+"\WINDOWS\system32\DirectX\Dinput\ms7_5.png"="ms7_5.png","81d"
+"\WINDOWS\system32\DirectX\Dinput\ms7_6.png"="ms7_6.png","594b"
+"\WINDOWS\system32\DirectX\Dinput\ms7_7.png"="ms7_7.png","98f5"
+"\WINDOWS\system32\DirectX\Dinput\ms7_8.png"="ms7_8.png","3a6c"
+"\WINDOWS\system32\DirectX\Dinput\ms7_9.png"="ms7_9.png","9fc"
+"\WINDOWS\system32\DirectX\Dinput\ms6.png"="ms6.png","196a3"
+"\WINDOWS\system32\DirectX\Dinput\ms6_1.png"="ms6_1.png","8e68"
+"\WINDOWS\system32\DirectX\Dinput\ms6_2.png"="ms6_2.png","1ec4"
+"\WINDOWS\system32\DirectX\Dinput\ms6_3.png"="ms6_3.png","9a6b"
+"\WINDOWS\system32\DirectX\Dinput\ms6_4.png"="ms6_4.png","830c"
+"\WINDOWS\system32\DirectX\Dinput\ms6_5.png"="ms6_5.png","3947"
+"\WINDOWS\system32\DirectX\Dinput\ms6_6.png"="ms6_6.png","a68c"
+"\WINDOWS\system32\DirectX\Dinput\ms6_7.png"="ms6_7.png","d472"
+"\WINDOWS\system32\DirectX\Dinput\ms6_8.png"="ms6_8.png","706e"
+"\WINDOWS\system32\DirectX\Dinput\ms6_9.png"="ms6_9.png","aada"
+"\WINDOWS\system32\DirectX\Dinput\ms6_10.png"="ms6_10.png","157b"
+"\WINDOWS\system32\DirectX\Dinput\msf1f.png"="msf1f.png","17bab"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_1.png"="msf1f_1.png","97ba"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_2.png"="msf1f_2.png","6295"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_3.png"="msf1f_3.png","aa37"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_4.png"="msf1f_4.png","ef44"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_5.png"="msf1f_5.png","15ad"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_6.png"="msf1f_6.png","ada5"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_7.png"="msf1f_7.png","b4d3"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_8.png"="msf1f_8.png","f6b"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_9.png"="msf1f_9.png","fa7a"
+"\WINDOWS\system32\DirectX\Dinput\msf1f_10.png"="msf1f_10.png","ba8c"
+"\WINDOWS\system32\DirectX\Dinput\ms56.png"="ms56.png","10d77"
+"\WINDOWS\system32\DirectX\Dinput\ms56_1.png"="ms56_1.png","7d97"
+"\WINDOWS\system32\DirectX\Dinput\ms56_2.png"="ms56_2.png","a748"
+"\WINDOWS\system32\DirectX\Dinput\ms56_3.png"="ms56_3.png","8446"
+"\WINDOWS\system32\DirectX\Dinput\ms56_4.png"="ms56_4.png","3727"
+"\WINDOWS\system32\DirectX\Dinput\ms56_5.png"="ms56_5.png","87c2"
+"\WINDOWS\system32\DirectX\Dinput\ms56_6.png"="ms56_6.png","a292"
+"\WINDOWS\system32\DirectX\Dinput\ms56_7.png"="ms56_7.png","bea6"
+07W.jpg","3efe"
+\WINDOWS\Help\Tours\htmlTour\connected_multiple_ghost.jpg = "xptht07D.jpg","f1ee"
+\WINDOWS\Help\Tours\htmlTour\best_robust.jpg = "xptht06W.jpg","5a71"
+\WINDOWS\Help\Tours\htmlTour\connected_multiple_big.jpg = "xptht06D.jpg","c8fd"
+\WINDOWS\Help\Tours\htmlTour\connected_multiple.jpg = "xptht05D.jpg","6f8f"
+\WINDOWS\Help\Tours\htmlTour\best_road_ghost.jpg = "xptht04W.jpg","2a2a"
+\WINDOWS\Help\Tours\htmlTour\connected_data_ghost.jpg = "xptht04D.jpg","a080"
+\WINDOWS\Help\Tours\htmlTour\best_road_big.jpg = "xptht03W.jpg","c88d"
+\WINDOWS\Help\Tours\htmlTour\connected_data_big.jpg = "xptht03D.jpg","e264"
+\WINDOWS\Help\Tours\htmlTour\best_road.jpg = "xptht02W.jpg","6786"
+\WINDOWS\Help\Tours\htmlTour\connected_data.jpg = "xptht02D.jpg","aed7"
+rs\htmlTour\safe_easy_better_big.jpg = "xptht60D.jpg","eda1"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_better.jpg = "xptht59D.jpg","11008"
+\WINDOWS\Help\Tours\htmlTour\read_icon.jpg = "xptht58D.jpg","1549"
+\WINDOWS\Help\Tours\htmlTour\question_icon.jpg = "xptht57D.jpg","f7fc"
+\WINDOWS\Help\Tours\htmlTour\pen_icon.jpg = "xptht56D.jpg","1dfc"
+\WINDOWS\Help\Tours\htmlTour\logo.jpg = "xptht43D.jpg","279d"
+\WINDOWS\Help\Tours\htmlTour\intro_logo.jpg = "xptht42D.jpg","9830"
+\WINDOWS\Help\Tours\htmlTour\img149.jpg = "xptht41D.jpg","1f69d"
+\WINDOWS\Help\Tours\htmlTour\img136.jpg = "xptht40D.jpg","2098c"
+\WINDOWS\Help\Tours\htmlTour\img126.jpg = "xptht39D.jpg","ff3f"
+\WINDOWS\Help\Tours\htmlTour\img123.jpg = "xptht38D.jpg","d007"
+\WINDOWS\Help\Tours\htmlTour\img121.jpg = "xptht37D.jpg","10dc7"
+\WINDOWS\Help\Tours\htmlTour\img116.jpg = "xptht36D.jpg","acdd"
+\WINDOWS\Help\Tours\htmlTour\img110.jpg = "xptht35D.jpg","6d01"
+\WINDOWS\Help\Tours\htmlTour\img109.jpg = "xptht34D.jpg","159b7"
+\WINDOWS\Help\Tours\htmlTour\img100.jpg = "xptht32D.jpg","cb15"
+\WINDOWS\Help\Tours\htmlTour\img089.jpg = "xptht31D.jpg","16c0d"
+\WINDOWS\Help\Tours\htmlTour\img072.jpg = "xptht30D.jpg","10c37"
+\WINDOWS\Help\Tours\htmlTour\img068.jpg = "xptht29D.jpg","d8b9"
+\WINDOWS\Help\Tours\htmlTour\img060.jpg = "xptht28D.jpg","bc3e"
+\WINDOWS\Help\Tours\htmlTour\img040.jpg = "xptht26D.jpg","12bab"
+\WINDOWS\Help\Tours\htmlTour\img034.jpg = "xptht25D.jpg","f258"
+\WINDOWS\Help\Tours\htmlTour\img033a.jpg = "xptht24D.jpg","11bad"
+\WINDOWS\Help\Tours\htmlTour\img033.jpg = "xptht23D.jpg","125ed"
+\WINDOWS\Help\Tours\htmlTour\img014.jpg = "xptht22D.jpg","ceab"
+\WINDOWS\Help\Tours\htmlTour\img004b.jpg = "xptht21D.jpg","12e70"
+\WINDOWS\Help\Tours\htmlTour\img074a.jpg = "xptht20W.jpg","b19a"
+\WINDOWS\Help\Tours\htmlTour\icon_up.jpg = "xptht20D.jpg","46d0"
+\WINDOWS\Help\Tours\htmlTour\gradient.jpg = "xptht19D.jpg","b17d"
+\WINDOWS\Help\Tours\htmlTour\folder_up.jpg = "xptht18D.jpg","fe10"
+\WINDOWS\Help\Tours\htmlTour\end_up.jpg = "xptht17D.jpg","a4ec"
+\WINDOWS\Help\Tours\htmlTour\desktop_up.jpg = "xptht16D.jpg","e53c"
+\WINDOWS\Help\Tours\htmlTour\desktop_screen_shot.jpg = "xptht15D.jpg","e108"
+\WINDOWS\Help\Tours\htmlTour\control_up.jpg = "xptht14D.jpg","3702"
+\WINDOWS\Help\Tours\htmlTour\connected_wizard_ghost.jpg = "xptht13D.jpg","341d"
+\WINDOWS\Help\Tours\htmlTour\best_secure_ghost.jpg = "xptht12W.jpg","53ed"
+\WINDOWS\Help\Tours\htmlTour\connected_wizard_big.jpg = "xptht12D.jpg","952d"
+\WINDOWS\Help\Tours\htmlTour\best_secure_big.jpg = "xptht11W.jpg","107eb"
+\WINDOWS\Help\Tours\htmlTour\connected_wizard.jpg = "xptht11D.jpg","d14f"
+\WINDOWS\Help\Tours\htmlTour\best_secure.jpg = "xptht10W.jpg","d763"
+\WINDOWS\Help\Tours\htmlTour\connected_networks_ghost.jpg = "xptht10D.jpg","624e"
+\WINDOWS\Help\Tours\htmlTour\connected_networks_big.jpg = "xptht09D.jpg","10fea"
+\WINDOWS\Help\Tours\htmlTour\best_robust_ghost.jpg = "xptht08W.jpg","25aa"
+\WINDOWS\Help\Tours\htmlTour\connected_networks.jpg = "xptht08D.jpg","11bf8"
+\WINDOWS\Help\Tours\htmlTour\best_robust_big.jpg = "xptht
+\WINDOWS\Help\Tours\htmlTour\img046.jpg = "xptht27D.jpg","2a32a"
+"\WINDOWS\Web\Wallpaper\Moon flower.jpg"="moon.jpg","16a76"
+"\WINDOWS\Web\Wallpaper\Red moon desert.jpg"="redmoon.jpg","18c1e"
+"\WINDOWS\Web\Wallpaper\Vortec space.jpg"="vortec.jpg","1e992"
+"\WINDOWS\Web\Wallpaper\Ascent.jpg"="ascent.jpg","1dc6d"
+"\WINDOWS\Web\Wallpaper\Autumn.jpg"="autumn.jpg","143d2"
+"\WINDOWS\Web\Wallpaper\Friend.jpg"="friend.jpg","16e0d"
+"\WINDOWS\Web\Wallpaper\Home.jpg"="home.jpg","1905b"
+"\WINDOWS\Web\Wallpaper\Peace.jpg"="peace.jpg","ee49"
+"\WINDOWS\Web\Wallpaper\Power.jpg"="power.jpg","1edf1"
+"\WINDOWS\Web\Wallpaper\Purple flower.jpg"="purplef.jpg","1825f"
+"\WINDOWS\Web\Wallpaper\Radiance.jpg"="radiance.jpg","151c8"
+"\WINDOWS\Web\Wallpaper\Stonehenge.jpg"="stoneh.jpg","f443"
+"\WINDOWS\Web\Wallpaper\Tulips.jpg"="tulips.jpg","1a190"
+"\WINDOWS\Web\Wallpaper\Wind.jpg"="wind.jpg","13861"
+"\WINDOWS\Web\Wallpaper\Crystal.jpg"="crystal.jpg","15c6a"
+"\WINDOWS\Web\Wallpaper\Ripple.jpg"="ripple.jpg","ebaf"
+"\WINDOWS\Web\Wallpaper\Azul.jpg"="azul.jpg","17e83"
+"\WINDOWS\Web\Wallpaper\Follow.jpg"="follow.jpg","181f9"
+"\WINDOWS\Web\Wallpaper\default.jpg"="bliss.jpg","c867"
+"\WINDOWS\Web\Wallpaper\Windows XP.jpg"="winxp.jpg","1dbe6"
+"\WINDOWS\system32\DirectX\Dinput\glmda.png"="glmda.png","18184"
+"\WINDOWS\system32\DirectX\Dinput\glmdiggp.png"="glmdiggp.png","1769d"
+rectX\Dinput\ms56_8.png"="ms56_8.png","249f"
+"\WINDOWS\system32\DirectX\Dinput\ms56_9.png"="ms56_9.png","4925"
+"\WINDOWS\system32\DirectX\Dinput\ms56_10.png"="ms56_10.png","da68"
+"\WINDOWS\system32\DirectX\Dinput\msprw.png"="msprw.png","f68c"
+"\WINDOWS\system32\DirectX\Dinput\msprw_1.png"="msprw_1.png","21ce"
+"\WINDOWS\system32\DirectX\Dinput\msprw_2.png"="msprw_2.png","4660"
+"\WINDOWS\system32\DirectX\Dinput\msprw_3.png"="msprw_3.png","1326"
+"\WINDOWS\system32\DirectX\Dinput\msprw_4.png"="msprw_4.png","41f4"
+"\WINDOWS\system32\DirectX\Dinput\msprw_5.png"="msprw_5.png","2481"
+"\WINDOWS\system32\DirectX\Dinput\msprw_6.png"="msprw_6.png","257b"
+"\WINDOWS\system32\DirectX\Dinput\msprw_7.png"="msprw_7.png","2e10"
+"\WINDOWS\system32\DirectX\Dinput\msprw_8.png"="msprw_8.png","f788"
+"\WINDOWS\system32\DirectX\Dinput\ms28_8.png"="ms28_8.png","b3d7"
+"\WINDOWS\system32\DirectX\Dinput\ms28.png"="ms28.png","1c742"
+"\WINDOWS\system32\DirectX\Dinput\ms28_1.png"="ms28_1.png","f10c"
+"\WINDOWS\system32\DirectX\Dinput\ms28_2.png"="ms28_2.png","b4d1"
+"\WINDOWS\system32\DirectX\Dinput\ms28_3.png"="ms28_3.png","d9ec"
+"\WINDOWS\system32\DirectX\Dinput\ms28_4.png"="ms28_4.png","b6fc"
+"\WINDOWS\system32\DirectX\Dinput\ms28_5.png"="ms28_5.png","cf8a"
+"\WINDOWS\system32\DirectX\Dinput\ms28_6.png"="ms28_6.png","9e3d"
+"\WINDOWS\system32\DirectX\Dinput\ms28_7.png"="ms28_7.png","83bc"
+"\WINDOWS\system32\DirectX\Dinput\ms27.png"="ms27.png","13740"
+"\WINDOWS\system32\DirectX\Dinput\ms27_1.png"="ms27_1.png","a915"
+"\WINDOWS\system32\DirectX\Dinput\ms27_2.png"="ms27_2.png","10b8"
+"\WINDOWS\system32\DirectX\Dinput\ms27_3.png"="ms27_3.png","9b0e"
+"\WINDOWS\system32\DirectX\Dinput\ms27_4.png"="ms27_4.png","6dc2"
+"\WINDOWS\system32\DirectX\Dinput\ms27_5.png"="ms27_5.png","6ddb"
+"\WINDOWS\system32\DirectX\Dinput\ms3b.png"="ms3b.png","ba4f"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_1.png"="ms3b_1.png","4dec"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_2.png"="ms3b_2.png","82a5"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_3.png"="ms3b_3.png","6bb3"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_4.png"="ms3b_4.png","9acc"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_a.png"="ms3b_a.png","ba85"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_c.png"="ms3b_c.png","4aac"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_m.png"="ms3b_m.png","f69f"
+"\WINDOWS\system32\DirectX\Dinput\ms3b_t.png"="ms3b_t.png","7040"
+"\WINDOWS\system32\DirectX\Dinput\gr4003.png"="gr4003.png","c161"
+"\WINDOWS\system32\DirectX\Dinput\gr3001.png"="gr3001.png","1224c"
+"\WINDOWS\system32\DirectX\Dinput\gr4005.png"="gr4005.png","f0c7"
+"\WINDOWS\system32\DirectX\Dinput\gr4001.png"="gr4001.png","f275"
+"\WINDOWS\system32\DirectX\Dinput\gr4001_g.png"="gr4001_g.png","7e82"
+"\WINDOWS\system32\DirectX\Dinput\act_rs.png"="act_rs.png","23e06"
+\WINDOWS\Help\Tours\htmlTour\window_up.jpg = "xptht81D.jpg","a09b"
+\WINDOWS\Help\Tours\htmlTour\unlock_optimized_ghost.jpg = "xptht77D.jpg","5b88"
+\WINDOWS\Help\Tours\htmlTour\unlock_optimized_big.jpg = "xptht76D.jpg","5f81"
+\WINDOWS\Help\Tours\htmlTour\unlock_optimized.jpg = "xptht75D.jpg","b414"
+\WINDOWS\Help\Tours\htmlTour\unlock_built_ghost.jpg = "xptht74D.jpg","34fd"
+\WINDOWS\Help\Tours\htmlTour\unlock_built_big.jpg = "xptht73D.jpg","b233"
+\WINDOWS\Help\Tours\htmlTour\unlock_built.jpg = "xptht72D.jpg","1135c"
+\WINDOWS\Help\Tours\htmlTour\ul_logo.jpg = "xptht71D.jpg","dacd"
+\WINDOWS\Help\Tours\htmlTour\taskbar_up.jpg = "xptht70D.jpg","101cd"
+\WINDOWS\Help\Tours\htmlTour\start_up.jpg = "xptht69D.jpg","31d2"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_faster_ghost.jpg = "xptht67D.jpg","3f13"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_faster_big.jpg = "xptht66D.jpg","daad"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_faster.jpg = "xptht65D.jpg","11288"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_easier_ghost.jpg = "xptht64D.jpg","e2b8"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_easier_big.jpg = "xptht63D.jpg","fdfc"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_easier.jpg = "xptht62D.jpg","a332"
+\WINDOWS\Help\Tours\htmlTour\safe_easy_better_ghost.jpg = "xptht61D.jpg","b647"
+"\WINDOWS\system32\oobe\images\mslogo.jpg"="mslogo.jpg","f043"
+"\WINDOWS\system32\oobe\images\newbtm1.jpg"="newbtm1.jpg","d70d"
+"\WINDOWS\system32\oobe\images\newbtm8.jpg"="newbtm8.jpg","64ae"
+"\WINDOWS\system32\oobe\images\newmark1.jpg"="newmark1.jpg","fee3"
+"\WINDOWS\system32\oobe\images\newmark8.jpg"="newmark8.jpg","170d3"
+"\WINDOWS\system32\oobe\images\newtop1.jpg"="newtop1.jpg","afc6"
+"\WINDOWS\system32\oobe\images\newtop8.jpg"="newtop8.jpg","de84"
+"\WINDOWS\system32\oobe\images\nextdown.jpg"="nextdown.jpg","2c1e"
+"\WINDOWS\system32\oobe\images\nextoff.jpg"="nextoff.jpg","d212"
+"\WINDOWS\system32\oobe\images\nextover.jpg"="nextover.jpg","32cf"
+"\WINDOWS\system32\oobe\images\nextup.jpg"="nextup.jpg","f10b"
+"\WINDOWS\system32\oobe\images\oemcoa.jpg"="oemcoa.jpg","358c"
+"\WINDOWS\system32\oobe\images\skipdown.jpg"="skipdown.jpg","c0af"
+"\WINDOWS\system32\oobe\images\skipoff.jpg"="skipoff.jpg","56f0"
+"\WINDOWS\system32\oobe\images\skipover.jpg"="skipover.jpg","63ab"
+"\WINDOWS\system32\oobe\images\skipup.jpg"="skipup.jpg","15ed"
+"\WINDOWS\system32\oobe\images\thanks10.png"="thanks10.png","11c67"
+"\WINDOWS\system32\oobe\images\thanks8.png"="thanks8.png","10de0"
+"\WINDOWS\system32\oobe\images\wpaback.jpg"="wpaback.jpg","180cb"
+"\WINDOWS\system32\oobe\images\wpabtm.jpg"="wpabtm.jpg","122aa"
+"\WINDOWS\system32\oobe\images\wpaflag.jpg"="wpaflag.jpg","dfb3"
+"\WINDOWS\system32\oobe\images\wpakey.jpg"="wpakey.jpg","ffbe"
+"\WINDOWS\system32\oobe\images\wpatop.jpg"="wpatop.jpg","bd31"
+"\WINDOWS\system32\oobe\html\mouse\images\bulzano.jpg"="bulzano.jpg","120af"
+"\WINDOWS\system32\oobe\html\mouse\images\bulzanom.jpg"="bulzanom.jpg","c957"
+"\WINDOWS\system32\oobe\html\mouse\images\heidelb.jpg"="heidelb.jpg","e6bf"
+"\WINDOWS\system32\oobe\html\mouse\images\heidelbm.jpg"="heidelbm.jpg","6932"
+"\WINDOWS\system32\oobe\html\mouse\images\paris.jpg"="paris.jpg","16702"
+"\WINDOWS\system32\oobe\html\mouse\images\parism.jpg"="parism.jpg","11c2b"
+"\WINDOWS\system32\oobe\html\mouse\images\pisa.jpg"="pisa.jpg","e509"
+"\WINDOWS\system32\oobe\html\mouse\images\pisam.jpg"="pisam.jpg","8a37"
+"\WINDOWS\system32\oobe\html\mouse\images\prague.jpg"="prague.jpg","109a6"
+"\WINDOWS\system32\oobe\html\mouse\images\praguem.jpg"="praguem.jpg","9cd2"
+"\WINDOWS\system32\oobe\html\mouse\images\tyrol.jpg"="tyrol.jpg","18fbe"
+"\WINDOWS\system32\oobe\html\mouse\images\tyrolm.jpg"="tyrolm.jpg","1482c"
+"\WINDOWS\system32\oobe\html\mouse\images\venice.jpg"="venice.jpg","13ccc"
+"\WINDOWS\system32\oobe\html\mouse\images\venicem.jpg"="venicem.jpg","130e4"
+"\WINDOWS\system32\oobe\html\mouse\images\verona.jpg"="verona.jpg","162c6"
+"\WINDOWS\system32\oobe\html\mouse\images\veronam.jpg"="veronam.jpg","f84d"
+"\WINDOWS\system32\oobe\images\backdown.jpg"="backdown.jpg","bd85"
+"\WINDOWS\system32\oobe\images\backoff.jpg"="backoff.jpg","f194"
+"\WINDOWS\system32\oobe\images\backover.jpg"="backover.jpg","ac57"
+"\WINDOWS\system32\oobe\images\backup.jpg"="backup.jpg","fb62"

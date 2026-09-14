@@ -1,0 +1,593 @@
+http://ipxe.org
+iPXE (http://ipxe.org)
+PANIC_STACK_SWITCH
+system vendor or visit http://www.hardware-update.com for an updated BIOS.
+PCI: Warning failed switch to native mode for IDE controller VEN_%04x&DEV_%04x!
+Switching debugger to 9600 baud
+NdisIMSwitchToMiniport
+TaskKill.pdb
+TaskKill.pdb
+ xmlns:xs="http://www.w3.org/2001/XMLSchema"
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+ xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    mapfileurl = 'http://people.freebsd.org/~perky/i18n/BIG5HKSCS-2004.TXT'
+WaitToKillAppTimeout
+KillTimer
+KillTimer
+KillTimer
+CoSwitchCallContext
+UnattendSwitch=No
+$http://ocsp.verisign.com/ocsp/status0
+8http://crl.microsoft.com/download/msprod/CodeSignPCA.crl0
+$http://www.microsoft.com/typography/0
+WlxGetConsoleSwitchCredentials
+http://ocsp.verisign.com0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+http://ocsp.verisign.com0
+"http://crl.verisign.com/tss-ca.crl0
+http://ocsp.verisign.com0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+http://ocsp.verisign.com0
+"http://crl.verisign.com/tss-ca.crl0
+CoolSwitch
+CoolSwitchColumns
+CoolSwitchRows
+WaitToKillAppTimeout
+CoolSwitch
+CoolSwitchColumns
+CoolSwitchRows
+CoolSwitch
+CoolSwitchColumns
+CoolSwitchRows
+WaitToKillAppTimeout
+http://ocsp.verisign.com0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+http://ocsp.verisign.com0
+"http://crl.verisign.com/tss-ca.crl0
+=http://crl.microsoft.com/msprod/enforcedlic/clearinghouse.crl0
+;http://crl.microsoft.com/msprod/enforcedlic/enforcedlic.crl0
+ihttp://cpecwba12.one.microsoft.com/CertEnroll/Microsoft%20Clearing%20House%20Registration%20Authority.crl0q
+http://cpecwba12.one.microsoft.com/CertEnroll/cpecwba12.one.microsoft.com_Microsoft%20Clearing%20House%20Registration%2
+0Authority.crt0
+?http://crl.microsoft.com/pki/crl/products/MSEnforcedLicCHCA.crl0
+>http://crl.microsoft.com/pki/crl/products/MSEnforcedLicPCA.crl0
+yhttp://tkecwbap62.ecity-inetres.microsoft.com/CertEnroll/Microsoft%20Clearing%20House%20Registration%20Authority%2062.
+crl0
+http://tkecwbap62.ecity-inetres.microsoft.com/CertEnroll/tkecwbap62.ecity-inetres.microsoft.com_Microsoft%20Clearing%20
+House%20Registration%20Authority%2062.crt0
+http://ocsp.verisign.com0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+http://ocsp.verisign.com0
+"http://crl.verisign.com/tss-ca.crl0
+KillTimer
+WaitToKillAppTimeout
+http://ocsp.verisign.com0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+http://ocsp.verisign.com0
+"http://crl.verisign.com/tss-ca.crl0
+CoolSwitch
+Win32Registry|Control Panel\Desktop|CoolSwitch
+KillTimeout
+KillTimeout
+The PWhere property defines a from/where clause (i.e. a WQL query without the Select clause). The query string may
+contain substitution parameters (tokens preceded by a '#' mark) indicating where values may be substituted into the
+query string. The parameter values are taken from the tokens immediately after the alias if the token cannot be
+resolved to a switch or verb - this allows for example a command such as 'w KillProcess 154' where the PWhere value
+for the KillProcess alias would be 'From Win32_process Where ProcessId = #ProcId'
+Auto-switch log file
+KillTimeout
+The PWhere property defines a from/where clause (i.e. a WQL query without the Select clause). The query string may
+contain substitution parameters (tokens preceded by a '#' mark) indicating where values may be substituted into the
+query string. The parameter values are taken from the tokens immediately after the alias if the token cannot be
+resolved to a switch or verb - this allows for example a command such as 'w KillProcess 154' where the PWhere value
+for the KillProcess alias would be 'From Win32_process Where ProcessId = #ProcId'
+If the DefaultSeparateVDM switch in the Windows section of WIN.INI is TRUE, this flag causes the CreateProcess
+function to override the switch and run the new process in the shared Virtual DOS Machine.
+KillTimeout
+WinSta0_DesktopSwitch
+     <dpiAware  xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+CKillerTimer: Unable to stop worker thread, continuing shutdown
+Callback: <http://%s:%d/upnp/eventing/%s>
+KillTimer
+DebugSetProcessKillOnExit
+SwitchToFiber
+SwitchToThread
+CoSwitchCallContext
+ SwHookSwitchHookEnabledEvent
+CoSwitchCallContext
+KillTimer
+ http://
+SwitchToThisWindow
+KillTimer
+KillTimer
+<ie8tldlistdescription xmlns="http://www.microsoft.com/schemas/ie8tldlistdescription/1.0">
+KillSystemTimer
+KillTimer
+SwitchDesktop
+SwitchToThisWindow
+KillTimer
+KillTimer
+KillTimer
+KillTimer
+    <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+CoSwitchCallContext
+KillTimer
+KillTimer
+WlxGetConsoleSwitchCredentials
+KillTimer
+SwitchDesktop
+SwitchToThread
+KillTimer
+SwitchToThread
+KillTimer
+SwitchDesktop
+KillTimer
+WlxGetConsoleSwitchCredentials
+KillTimer
+KillTimer
+timeKillEvent
+KillTimer
+KillTimer
+KillTimer
+Switching out NTSTATUS %x to %x
+KillTimer
+%x:%x> Timed out trying to acquire writer lock 0x%p, WriterID = %x. If WriterID is not zero, switch to the WriterID
+thread and examine why it is blocked.
+%x:%x> Timed out trying to acquire reader lock 0x%p, WriterID = %x. Switch to the WriterID thread and examine why it
+is blocked.
+SwitchToThread
+SwitchToThread
+KillTimer
+KillTimer
+KillTimer
+phoneSetHookSwitch
+KillTimer
+KillTimer
+SwitchToThisWindow
+KillTimer
+KillTimer
+KillTimer
+KillTimer
+KillTimer
+SwitchDesktop
+KillTimer
+KillTimer
+the ResyncTask of type %d timed-out and has been killed
+KillTimer
+CoSwitchCallContext
+! SrSwitchLog : %ld
+CEventHandler::SRSwitchLogS
+! SwitchRestorePoint : %ld
+CoSwitchCallContext
+CoSwitchCallContext
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/">
+P<soap:Body soap:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+CoSwitchCallContext
+http://%s/%s
+SwitchToFiber
+SwitchToThread
+CoSwitchCallContext
+     <dpiAware  xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+KillTimer
+CoSwitchCallContext
+SwitchToThread
+KillTimer
+CKillerTimer: Unable to stop worker thread, continuing shutdown
+KillTimer
+WinSta0_DesktopSwitch
+KillTimer
+Callback: <http://%s:%d/upnp/eventing/%s>
+KillTimer
+KillTimer
+KillTimer
+    <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+KillTimer
+KillTimer
+http://*:2869/
+IOCTL_SWITCHES
+Failure compressing data -- Status %lx, Switching over to uncompressed
+webchecker.DEFROOT = "http://www.python.org/python/"
+WaitToKillServiceTimeout
+http://ns.adobe.com/xap/1.0/
+http://ns.adobe.com/xap/1.0/
+http://www.e-me.lv/repository0
+8http://crl.sgtrustservices.com/racine-GroupeSG/LatestCRL0
+http://www.ancert.com/cps0
+Agencia Notarial de Certificacion. La declaracion de practicas de certifiacion que rige el funcionamiento de la
+presente autoridad se encuentra disponible en http://www.ancert.com/cps0
+.http://www.pkioverheid.nl/policies/root-policy0
+http://www.ancert.com/cps0
+Agencia Notarial de Certificacion. La declaracion de practicas de certifiacion que rige el funcionamiento de la
+presente autoridad se encuentra disponible en http://www.ancert.com/cps0
+)http://www.datev.de/zertifikat-policy-std0
+!http://www.quovadisglobal.com/cps0
+0http://pki.registradores.org/normativa/index.htm0
+'http://www.certplus.com/CRL/class3P.crl0
+#http://logo.verisign.com/vslogo.gif0
+!http://www.e-szigno.hu/RootCA.crt0
+http://www.e-szigno.hu/SZSZ/0
+!http://www.e-szigno.hu/RootCA.crl
+http://www.ssc.lt/cps03
+"http://crl.ssc.lt/root-c/cacrl.crl0
+Dhttp://www.informatik.admin.ch/PKI/links/CPS_2_16_756_1_17_3_1_0.pdf0
+,http://www.a-cert.at/certificate-policy.html0;
+,http://www.a-cert.at/certificate-policy.html0
+http://www.a-cert.at0E
+http://www.globaltrust.info0=
+http://www.globaltrust.info0
+#http://logo.verisign.com/vslogo.gif0
+ http://repository.swisssign.com/0
+http://www.usertrust.com1
+http://www.usertrust.com1
+,http://crl.usertrust.com/UTN-DATACorpSGC.crl0*
+=http://www.d-trust.net/crl/d-trust_root_class_3_ca_2_2009.crl0
+&http://cps.siths.se/sithsrootcav1.html0
+)http://www.datev.de/zertifikat-policy-int0
+*http://ca.sia.it/secsrv/repository/CRL.der0J
+http://www.usertrust.com1+0)
+http://www.usertrust.com1+0)
+>http://crl.usertrust.com/UTN-USERFirst-NetworkApplications.crl0
+.http://www2.public-trust.com/crl/ct/ctroot.crl0
+http://www.valicert.com/1 0
+http://www.valicert.com/1 0
+&http://www.certplus.com/CRL/class1.crl0
+(http://ocsp.infonotary.com/responder.cgi0V
+.http://repository.infonotary.com/cps/qcps.html0$
+http://www.crc.bg0
+http://www.usertrust.com1
+http://www.usertrust.com1
+3http://crl.usertrust.com/UTN-USERFirst-Hardware.crl01
+"http://www.e-trust.be/CPS/QNcerts 0
+&http://www.certplus.com/CRL/class2.crl0
+&http://www.agesic.gub.uy/acrn/acrn.crl0)
+#http://www.uce.gub.uy/acrn/acrn.crl0
+?http://www.uce.gub.uy/informacion-tecnica/politicas/cp_acrn.pdf0G
+*http://www.agesic.gub.uy/acrn/cps_acrn.pdf0
+http://www.ancert.com/cps0
+5http://www.trustcenter.de/crl/v2/tc_class_3_ca_II.crl
+<http://fedir.comsign.co.il/crl/ComSignAdvancedSecurityCA.crl0
+http://www.comsign.co.il/cps0[
+?http://fedir.comsign.co.il/cacert/ComSignAdvancedSecurityCA.crt0
+$http://www.trustcenter.de/guidelines0
+http://www.defence.gov.au/pki0
+#http://crl.securetrust.com/STCA.crl0
+#http://www.certifikat.dk/repository0
+&http://crl.oces.certifikat.dk/oces.crl0+
+http://www.certicamara.com0
+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0=
+,http://acraiz.icpbrasil.gov.br/LCRacraiz.crl0
+3http://http.fpki.gov/fcpca/caCertsIssuedByfcpca.p7c0
+http://www.disig.sk/ca0f
+'http://www.disig.sk/ca/crl/ca_disig.crl0,
+&http://ca.disig.sk/ca/crl/ca_disig.crl0
+http://www.valicert.com/1 0
+http://www.valicert.com/1 0
+Lhttp://www.certificadodigital.com.br/repositorio/serasaca/crl/SerasaCAII.crl0
+http://www.chambersign.org1 0
+http://www.chambersign.org1 0
+.http://crl.chambersign.org/chambersignroot.crl0
+3http://cps.chambersign.org/cps/chambersignroot.html0
+http://www.rcsc.lt/repository0
+http://www.cert.fnmt.es/dpcs/0
+=http://pki-root.ecertpki.cl/CertEnroll/E-CERT%20ROOT%20CA.crl0
+=http://www.e-certchile.cl/html/productos/download/CPSv1.7.pdf01
+* http://www.post.trust.ie/reposit/cps.html0
+(http://www.echoworx.com/ca/root2/cps.pdf0
+2http://crl.comodoca.com/AAACertificateServices.crl06
+0http://crl.comodo.net/AAACertificateServices.crl0
+)http://crlmain01.ipsca.com/crl/main01.crl06
+http://crlmain01.ipsca.com0
+$http://www.trustcenter.de/guidelines0
+&http://www.certplus.com/CRL/class3.crl0
+http://www.chambersign.org1"0
+http://www.chambersign.org1"0
++http://crl.chambersign.org/chambersroot.crl0
+0http://cps.chambersign.org/cps/chambersroot.html0
+;http://www.pki.admin.ch/policy/CPS_2_16_756_1_17_3_21_1.pdf0
+$http://www.rootca.or.kr/rca/cps.html0
+http://www.usertrust.com1
+http://www.usertrust.com1
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0)
+#http://acedicom.edicomgroup.com/doc0
+,http://fedir.comsign.co.il/crl/ComSignCA.crl0
+http://www.valicert.com/1 0
+http://www.valicert.com/1 0
+&http://www.signatur.rtr.at/current.crl0
+0http://www.signatur.rtr.at/de/directory/cps.html0
+(http://crl.pki.wellsfargo.com/wsprca.crl0
+#http://pki.digidentity.eu/validatie0
+(http://www.certplus.com/CRL/class3TS.crl0
+3http://fedir.comsign.co.il/crl/ComSignSecuredCA.crl0
++http://www.correo.com.uy/correocert/cps.pdf0
+)http://www.datev.de/zertifikat-policy-int0
+@http://www.d-trust.net/crl/d-trust_root_class_3_ca_2_ev_2009.crl0
+4http://www.microsoft.com/pki/docs/CPS/BPOS-S.CPS.htm0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+http://www.ecee.gov.pt/dpc0
+(http://www.datev.de/zertifikat-policy-bt0
+http://www.suscerte.gob.ve/lcr0#
+http://ocsp.suscerte.gob.ve0@
+http://www.suscerte.gob.ve/dpc0
+#http://crl.securetrust.com/SGCA.crl0
+0http://crlglobal01.ipsca.com/crl/crlglobal01.crl08
+http://crlglobal01.ipsca.com0
+http://www.ssc.lt/cps03
+"http://crl.ssc.lt/root-b/cacrl.crl0
+&http://cert.startcom.org/sfsca-crl.crl0+
+%http://crl.startcom.org/sfsca-crl.crl0
+#http://cert.startcom.org/policy.pdf05
+)http://cert.startcom.org/intermediate.pdf0
+Limited Liability, read the section *Legal Limitations* of the StartCom Certification Authority Policy available at
+http://cert.startcom.org/policy.pdf0
+;http://www.trustdst.com/certificates/policy/ACES-index.html0
+http://www.sk.ee/cps/0+
+http://www.sk.ee/juur/crl/0
+Ehttp://www.ica.co.il/repository/cps/PersonalID_Practice_Statement.pdf0
+*http://ca.sia.it/seccli/repository/CRL.der0J
+http://users.ocsp.d-trust.net03
+http://www.d-trust.net0
+;http://www.d-trust.net/crl/d-trust_root_class_2_ca_2007.crl0
+http://policy.camerfirma.com0
+1http://certs.oaticerts.com/repository/OATICA2.crl
+,http://certs.oati.net/repository/OATICA2.crl0
+1http://certs.oaticerts.com/repository/OATICA2.crt08
+,http://certs.oati.net/repository/OATICA2.crt0
+"http://www.e-trust.be/CPS/QNcerts 0
+http://www.turktrust.com.tr/sue0
+8http://www.turktrust.com.tr/sil/TURKTRUST_SSL_SIL_s2.crl0
+bhttp://www.turktrust.com.tr/sertifikalar/TURKTRUST_Elektronik_Sunucu_Sertifikasi_Hizmetleri_s2.crt0(
+http://ocsp.turktrust.com.tr0
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0-
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0
+4http://www.microsoft.com/pki/docs/CPS/BPOS-S.CPS.htm0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+.http://www.microsoft.com/pki/mscorp/GFSCPS.htm0
+Ehttp://crl.microsoft.com/pki/crl/products/MicWinPhoPCA_2010-02-15.crl0Z
+>http://www.microsoft.com/pki/certs/MicWinPhoPCA_2010-02-15.crt0
+SwitchToKeepShellRunning
+SwitchForOneTimeUseOfShell
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+DisconnectKillAllApps
+SwitchToKeepShellRunning
+SwitchForOneTimeUseOfShell
+DisconnectKillAllApps
+HelpMsgOnConsoleSwitch
+ http://repository.swisssign.com/0
+(http://www.datev.de/zertifikat-policy-bt0
+Este certificado es emitido y debe utilizarse segun lo dispuesto en sus Condiciones de Certificacion y en el
+Reglamento del SCR. http://www.registradores.org/scr/normativa/cp_f2.htm0@
+4http://www.registradores.org/scr/normativa/cp_f2.htm0
+$http://crl.verisign.com/pca1.1.1.crl0G
+http://www.usertrust.com1
+$http://crl.verisign.com/pca2.1.1.crl0G
+#http://www.entrust.net/CRL/net1.crl0+
+ http://repository.swisssign.com/0
+Fhttp://trustcenter-crl.certificat2.com/Keynectis/KEYNECTIS_ROOT_CA.crl0
+$http://www.trustcenter.de/guidelines0
+http://ocsp.pki.gva.es0
+http://www.pki.gva.es/cps0
+Mhttp://www.certificadodigital.com.br/repositorio/serasaca/crl/SerasaCAIII.crl0
++http://www.postsignum.cz/crl/psrootqca2.crl02
+,http://www2.postsignum.cz/crl/psrootqca2.crl01
++http://postsignum.ttc.cz/crl/psrootqca2.crl0
+$http://www.trustcenter.de/guidelines0
+5http://www.digsigtrust.com/DST_TRUST_CPS_v990701.html0
+http://www.firmaprofesional.com0
+)http://www.datev.de/zertifikat-policy-std0
+Khttp://www.certificadodigital.com.br/repositorio/serasaca/crl/SerasaCAI.crl0
+5http://www.trustcenter.de/crl/v2/tc_class_2_ca_II.crl
+#http://www.firmaprofesional.com/cps0\
+http://www.usertrust.com1604
+http://www.usertrust.com1604
+Ghttp://crl.usertrust.com/UTN-USERFirst-ClientAuthenticationandEmail.crl0
+http://ocsp.entrust.net0D
+"http://www.digicert.com.my/cps.htm02
+!http://crl.entrust.net/2048ca.crl0
+-http://www.public-trust.com/CPS/OmniRoot.html0
+4http://www.public-trust.com/cgi-bin/CRL/2018/cdp.crl0
+http://ocsp.entrust.net03
+"http://crl.entrust.net/server1.crl0
+0http://www.microsoft.com/pki/mscorp/XMAN-CPS.htm0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+-http://www.public-trust.com/CPS/OmniRoot.html0
+4http://www.public-trust.com/cgi-bin/CRL/2018/cdp.crl0
+@http://crl.microsoft.com/pki/crl/products/mshomeentertainpca.crl0F
+@http://www.microsoft.com/pki/crl/products/mshomeentertainpca.crl0U
+9http://www.microsoft.com/pki/certs/mshomeentertainpca.crt0
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0%
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+-http://www.public-trust.com/CPS/OmniRoot.html0
+4http://www.public-trust.com/cgi-bin/CRL/2018/cdp.crl0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com05
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+http://ocsp.entrust.net03
+"http://crl.entrust.net/server1.crl0
+4http://www.microsoft.com/pki/docs/CPS/BPOS-S.CPS.htm0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+-http://cybertrust.omniroot.com/repository.cfm0
+4http://www.public-trust.com/cgi-bin/CRL/2018/cdp.crl0
+'http://www.diginotar.nl/cps/pkioverheid0
+,http://crl.pkioverheid.nl/DomOvLatestCRL.crl0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0/
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+4http://www.microsoft.com/pki/docs/CPS/BPOS-S.CPS.htm0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+'http://www.diginotar.nl/cps/pkioverheid0
+8http://crl.pkioverheid.nl/DomOrganisatieLatestCRL-G2.crl0
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0/
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0/
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+4http://www.microsoft.com/pki/docs/CPS/BPOS-S.CPS.htm0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+http://www.usertrust.com1
+2http://crl.comodoca.com/UTN-USERFirst-Hardware.crl06
+0http://crl.comodo.net/UTN-USERFirst-Hardware.crl0q
+/http://crt.comodoca.com/UTNAddTrustServerCA.crt0$
+http://ocsp.comodoca.com0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+http://ocsp.entrust.net03
+"http://crl.entrust.net/server1.crl0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+'http://www.diginotar.nl/cps/pkioverheid0
+,http://crl.pkioverheid.nl/DomOvLatestCRL.crl0
+KillList
+Killbitlist
+CoolSwitch
+6http://fedir.comsign.co.il/crl/comsignglobalrootca.crl0;
+5http://crl1.comsign.co.il/crl/comsignglobalrootca.crl0
+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0?
+.http://acraiz.icpbrasil.gov.br/LCRacraizv2.crl0
+@http://www.accv.es/fileadmin/Archivos/certificados/raizaccv1.crt0
+http://ocsp.accv.es0
+$http://www.accv.es/legislacion_c.htm0U
+Dhttp://www.accv.es/fileadmin/Archivos/certificados/raizaccv1_der.crl0
+7http://www.pki.admin.ch/cps/CPS_2_16_756_1_17_3_1_0.pdf09
+http://www.acabogacia.org0
+http://www.acabogacia.org/doc0`
+RConsulte la declaracion de practicas de certificacion en http://www.acabogacia.org0
+http://policy.camerfirma.com0
+%http://crl.globalsign.net/root-r2.crl0
+"http://www.e-trust.be/CPS/QNcerts 0
+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0?
+.http://acraiz.icpbrasil.gov.br/LCRacraizv1.crl0
+http://www.ancert.com/cps0
+http://ca.mtin.es/mtin/ocsp0
+,http://ca.mtin.es/mtin/crl/MTINAutoridadRaiz03
+-http://ca2.mtin.es/mtin/crl/MTINAutoridadRaiz0
+$http://ca.mtin.es/mtin/DPCyPoliticas0g
+z. Consulte las condiciones de uso en http://ca.mtin.es/mtin/DPCyPoliticas0
+1http://certificates.starfieldtech.com/repository/1604
+1http://certificates.starfieldtech.com/repository/1604
+&http://crl.oces.trust2408.com/oces.crl0\
+http://www.ssc.lt/cps03
+"http://crl.ssc.lt/root-a/cacrl.crl0
+1http://www.pkioverheid.nl/policies/root-policy-G20
+,http://www.certicamara.com/certicamaraca.crl0;
+,http://www.certicamara.com/certicamaraca.crl0;
+,http://www.certicamara.com/certicamaraca.crl0
+#http://logo.verisign.com/vslogo.gif0
+)http://www.post.trust.ie/reposit/cps.html0
+%http://crl.xrampsecurity.com/XGCA.crl0
+http://www.dnie.es/dpc0
+CoolSwitch
+CoolSwitchColumns
+CoolSwitchRows
+WaitToKillAppTimeout
+http://users.ocsp.d-trust.net03
+http://www.d-trust.net0
+;http://www.d-trust.net/crl/d-trust_root_class_3_ca_2007.crl0
+/http://www.certeurope.fr/reference/pc-root2.pdf0
+,http://www.certeurope.fr/reference/root2.crl0}
+http://www.chambersign.org1
+http://www.chambersign.org1
+/http://crl.chambersign.org/publicnotaryroot.crl0
+4http://cps.chambersign.org/cps/publicnotaryroot.html0
+http://qual.ocsp.d-trust.net0
+http://www.d-trust.net0
+Bhttp://www.d-trust.net/crl/d-trust_qualified_root_ca_1_2007_pn.crl0
+http://www.quovadis.bm0
+$http://www.ca.posta.rs/dokumentacija0h
+2http://sertifikati.ca.posta.rs/crl/PostaCARoot.crl0+
+http://www.suscerte.gob.ve/lcr0#
+http://ocsp.suscerte.gob.ve0@
+http://www.suscerte.gob.ve/dpc0
+http://www.anf.es/AC/RC/ocsp0c
+http://www.certicamara.com/dpc/0Z
+http://www.eme.lv/repository0
+8http://www.pki.admin.ch/cps/CPS_2_16_756_1_17_3_21_1.pdf0:
+http://www.ancert.com/cps0
+Agencia Notarial de Certificacion. La declaracion de practicas de certifiacion que rige el funcionamiento de la
+presente autoridad se encuentra disponible en http://www.ancert.com/cps0
+"http://ac.economia.gob.mx/last.crl0G
+"http://ac.economia.gob.mx/cps.html0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+Bhttp://crl.microsoft.com/pki/crl/products/MicSerPCA_2008-07-25.crl0W
+;http://www.microsoft.com/pki/certs/MicSerPCA_2008-07-25.crt0
+WaitToKillServiceTimeout2
+CoolSwitchColumns
+WlxGetConsoleSwitchCredentials
+URL=http://go.microsoft.com/fwlink/?linkid=140813
+CoolSwitch
+CoolSwitchColumns
+KillTimer
+KillTimer
+<http://
+http://www.btcfrog.com/qr/bitcoinPNG.php?address=%s
+WaitToKillAppTimeout
+CoolSwitchColumns
+KillTimer
+CoolSwitchRows
+CoolSwitch

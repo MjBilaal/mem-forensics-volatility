@@ -1,0 +1,6 @@
+=== extractions\exo5\1940.dmp ===
+ASCII:
+UNICODE:
+=== extractions\exo5\740.dmp ===
+ASCII:
+UNICODE:

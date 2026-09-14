@@ -1,0 +1,11 @@
+Legend: (S) = Stable   (V) = Volatile
+
+----------------------------
+Registry: \Device\HarddiskVolume1\WINDOWS\system32\config\software
+Key name: Run (S)
+Last updated: 2017-05-12 21:14:27 UTC+0000
+
+Subkeys:
+
+Values:
+REG_SZ        ivecuqmanpnirkt615 : (S) "C:\Intel\ivecuqmanpnirkt615\tasksche.exe"

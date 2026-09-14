@@ -1,0 +1,26 @@
+LEGACY_MSSECSVC2.0
+WANACRY!
+WanaCrypt0r
+indexsrv_system
+WANACRY!
+WANACRY!
+WANACRY!
+WANACRY!
+WANACRY!
+WANACRY!
+WANACRY!
+WANACRY!
+mssecsvc2.0
+LEGACY_MSSECSVC2.0
+LEGACY_MSSECSVC2.0
+mssecsvc2.0
+"\WINDOWS\system32\drivers\MSKSSRV.sys"="driver.cab","10a0f"
+\WINDOWS\system32\drivers\srv.sys = "srv.sys","64a08"
+WANACRY!
+WANACRY!
+WANACRY!
+mssecsvc2.0
+mssecsvc.exe
+WANACRY!
+LEGACY_MSSECSVC2.0
+WANACRY!
